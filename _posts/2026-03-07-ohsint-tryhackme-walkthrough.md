@@ -29,7 +29,7 @@ The room presents a single image file as the starting point called:
 
 Challenge Image:
 
-![OhSINT Challenge Image](WindowsXP_1551719014755.jpg)
+![OhSINT Challenge Image](/assets/posts/Ohsint/WindowsXP_1551719014755.jpg)
 
 At first, the image looks normal and nothing unusual appears. But in OSINT, important information is often hidden. So our first step is to check the **image metadata** to see if it contains any useful clues that can lead us to the next step.
 

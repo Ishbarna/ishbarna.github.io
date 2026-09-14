@@ -25,7 +25,7 @@ Before diving into the challenge, we need to grab the Task Files. Just hit the b
 
 The room presents a single image file as the starting point called:
 
-`WindowsXP_1551719014755.jpeg`
+`WindowsXP_1551719014755.jpg`
 
 Challenge Image:
 
@@ -42,7 +42,7 @@ Using the **Metadata Viewer** page, I uploaded the image and examined its metada
 Alternatively, we can use `exiftool` from the command line as well:
 
 ```bash
-exiftool WindowsXP_1551719014755.jpeg
+exiftool WindowsXP_1551719014755.jpg
 ```
 
 This revealed two important pieces of information:

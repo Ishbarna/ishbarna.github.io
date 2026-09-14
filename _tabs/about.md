@@ -26,7 +26,7 @@ A passionate Computer Engineering student and security researcher with a strong 
 
 ### Certifications
 
-- **Certified Cybersecurity Ethical Professional (CCEP)** — RedTeamLeaders
+- **Certified Cybersecurity Educator Professional (CCEP)** — RedTeamLeaders
 - **Certified Network Security Practitioner (CNSP)** — The SecOps Group
 - **Certified Junior Web Application Penetration Tester (C-JWAPT)** — Sturtle Security
 - **Certified Red Team Operations Manager (CRTOM)** — RedTeamLeaders

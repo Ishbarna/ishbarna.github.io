@@ -34,10 +34,11 @@ A passionate Computer Engineering student and security researcher with a strong 
 ### Hall Of Fame
 
 - NASA
+-  Australian Government (Department of Industry, Science and Resources)
 - FH Münster
 - Security Delta
 - Onlinetri
-- Australian Government
+- Australian Government (Department of employment and workplace relations)
 
 ### Acknowledged by
 

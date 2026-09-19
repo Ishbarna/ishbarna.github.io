@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Security Researcher - Turning curiosity into security.  
 {: .prompt-tip }
 
 ## Introduction
@@ -39,11 +39,13 @@ A passionate Computer Engineering student and security researcher with a strong 
 - Security Delta
 - Onlinetri
 - Australian Government (Department of employment and workplace relations)
+- PAIR
 
 ### Acknowledged by
 
 - NASA
 - Avans Hogeschool
+- new zealand government (Ministry Of Education)
 - Flagforge
 
 

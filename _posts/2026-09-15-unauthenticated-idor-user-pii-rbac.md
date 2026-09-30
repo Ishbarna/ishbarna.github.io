@@ -3,7 +3,7 @@ title: "How I Found an Unauthenticated IDOR That Exposed Every User's PII and Ac
 date: 2026-09-15 00:00:00 +0545
 categories: [Bug Bounty , IDOR]
 tags: [idor, cybersecurity, infosec, api, bug bounty]
-media_subpath: /assets/posts/idor/
+media_subpath: /assets/posts/Bug_Bounty/idor
 ---
 Everyone’s out here chasing live targets. Meanwhile I’m digging through an archived repo nobody’s touched in months, because why not. *So naturally that’s where I went looking.*
 
@@ -51,7 +51,7 @@ Bumped the pk to 2 out of curiosity and it got way better (worse):
     "username": "user.two",
     "email": "user.two@example.com",
     "first_name": "user",
-    "last_name": "one"
+    "last_name": "two"
   },
   "groups": ["bureau_ao"],
   "permissions": [

@@ -34,18 +34,20 @@ A passionate Computer Engineering student and security researcher with a strong 
 ### Hall Of Fame
 
 - NASA
--  Australian Government (Department of Industry, Science and Resources)
+- Australian Government (Department of Industry, Science and Resources)
 - FH Münster
 - Security Delta
 - Onlinetri
 - Australian Government (Department of employment and workplace relations)
-- PAIR
+- PAIR (Pairnow)
+- University of Münster (uni-münster)
+- Berlin.de (Capital of Germany)
 
 ### Acknowledged by
 
 - NASA
 - Avans Hogeschool
-- new zealand government (Ministry Of Education)
+- New Zealand Government (Ministry Of Education)
 - Flagforge
 
 

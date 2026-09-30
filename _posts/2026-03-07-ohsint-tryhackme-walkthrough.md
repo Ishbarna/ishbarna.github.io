@@ -3,7 +3,7 @@ title: "OhSINT : TryHackMe Walkthrough"
 date: 2026-03-07 00:00:00 +0545
 categories: [TryHackMe, OSINT]
 tags: [ohsint, tryhackme, osint, ctf]
-media_subpath: /assets/posts/ohsint/
+media_subpath: /assets/posts/Tryhackme/ohsint/
 ---
 ---
 
